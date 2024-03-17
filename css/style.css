@@ -1,0 +1,87 @@
+h1{
+    font-family: Arial, Helvetica;
+    text-align: center;
+    font-size: 3em;
+    background-color: indianred;
+    color:darkblue;
+}
+
+body{
+    background-color: black;
+}
+
+header{
+    font-family:Arial, Helvetica;
+    text-align: center;
+    font-size: 1em;
+    padding: 5px;
+    background-color: indianred;
+    color:darkblue;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border: 10px solid darkred;
+    margin:.5em;
+}
+
+h2{
+    font-family:Arial, Helvetica;
+    padding:5px;
+    background-color: indianred;
+    color:darkblue;
+}
+
+h3{
+    font-family: Kanit;
+    text-align: center;
+    font-size: 2em;
+    background-color: indianred;
+    color:darkblue;
+}
+
+img{
+    border-radius:25%;
+    max-width:200px;
+    max-height: 200px;
+}
+
+p1{
+    font-family:Kanit;
+    font-size: 1.5em;
+}
+
+#reviews{
+    background-color: indianred;
+    padding: 5px;
+    text-align: center;
+    color:darkblue;
+    margin: .5em;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border: 10px solid darkred;
+}
+
+figure{
+    display:grid;
+    font-family:Arial, Helvetica;
+    grid-template-columns: 1fr 2fr;
+    border: 5px solid darkred;
+    padding: .3em;
+    align-items: center;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+
+footer{
+    font-family:Arial, Helvetica;
+    padding:5px;
+    background-color: indianred;
+    color:darkblue;
+    text-align: center;
+    margin: .5em;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border: 10px solid darkred;
+}
